@@ -31,6 +31,11 @@ Control logic was implemented to ensure stable tracking and smooth turning behav
 ## Results
 The robot successfully followed predefined tracks with stable motion and minimal deviation.
 
+![IMG_6542](https://github.com/user-attachments/assets/3df8951d-d1d1-49b5-9404-2fd5b462f8b2)
+
+
+https://github.com/user-attachments/assets/96a946f8-fc03-4560-b729-121cba80b216
+
 
 https://github.com/user-attachments/assets/bef828d1-f422-4e71-877c-ca6f114cd4c8
 
