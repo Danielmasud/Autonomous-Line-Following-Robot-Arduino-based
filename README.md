@@ -1,4 +1,5 @@
 # Autonomous Line Following Robot (Arduino-Based)
+**🥇 1st Place Winner - College Robotics Competition**
 
 ## Overview
 This project presents the design and implementation of an autonomous line-following robot using Arduino.
@@ -17,11 +18,11 @@ The robot reads sensor input and adjusts motor output accordingly.
 Control logic was implemented to ensure stable tracking and smooth turning behavior.
 
 ## The PID Algorithm
-# Proportional \K_P: The "immediate response"
-This is the main driving force, if the robot is to far to the left \K_P creates a strong turn to the right.
-# Integral \K_I: The "error accumulator"
+# Proportional ($K_P$): The "immediate response"
+This is the main driving force, if the robot is to far to the left ($K_P$) creates a strong turn to the right.
+# Integral ($K_I$): The "error accumulator"
 This is the precision, by correcting small, steady-state error that accumulate over time.
-# Derivative \K_D: The "predictor"
+# Derivative ($K_D$): The "predictor"
 This is the stability, it predicts the robot's motion and acts as brakes to slow down the turn.
 
 ## My Contribution
@@ -38,6 +39,7 @@ This is the stability, it predicts the robot's motion and acts as brakes to slow
 
 ## Results
 The robot successfully followed predefined tracks with stable motion and minimal deviation.
+🏆 Achievement: This project won 1st Place in the College's Autonomous Robotics Competition, demonstrating superior tracking speed and stability compared to other entries.
 
 ![IMG_6542](https://github.com/user-attachments/assets/3df8951d-d1d1-49b5-9404-2fd5b462f8b2)
 
