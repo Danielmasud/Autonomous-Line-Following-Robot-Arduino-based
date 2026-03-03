@@ -17,11 +17,11 @@ The robot reads sensor input and adjusts motor output accordingly.
 Control logic was implemented to ensure stable tracking and smooth turning behavior.
 
 ## The PID Algorithm
-# Proportional /K_P: The "immediate response"
-This is the main driving force, if the robot is to far to the left K_P creates a strong turn to the right.
-# Integral K_I: The "error accumulator"
+# Proportional \K_P: The "immediate response"
+This is the main driving force, if the robot is to far to the left \K_P creates a strong turn to the right.
+# Integral \K_I: The "error accumulator"
 This is the precision, by correcting small, steady-state error that accumulate over time.
-# Derivative K_D: The "predictor"
+# Derivative \K_D: The "predictor"
 This is the stability, it predicts the robot's motion and acts as brakes to slow down the turn.
 
 ## My Contribution
