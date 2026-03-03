@@ -39,6 +39,7 @@ This is the stability, it predicts the robot's motion and acts as brakes to slow
 
 ## Results
 The robot successfully followed predefined tracks with stable motion and minimal deviation.
+
 🏆 Achievement: This project won 1st Place in the College's Autonomous Robotics Competition, demonstrating superior tracking speed and stability compared to other entries.
 
 ![IMG_6542](https://github.com/user-attachments/assets/3df8951d-d1d1-49b5-9404-2fd5b462f8b2)
