@@ -7,11 +7,10 @@ This project presents the design and implementation of an autonomous line-follow
 The robot detects a black line using IR sensors and adjusts motor speed to maintain stable tracking along the path.
 
 ## System Architecture
-- Arduino microcontroller
+- Arduino uno
 - IR line sensors
 - Motor driver module
 - DC motors
-- Chassis and mechanical integration
 
 ## Control Logic
 The robot reads sensor input and adjusts motor output accordingly.
