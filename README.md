@@ -34,8 +34,7 @@ This is the stability, it predicts the robot's motion and acts as brakes to slow
 ## Tools & Technologies
 - Arduino (C/C++)
 - Embedded systems
-- Basic control logic
-- Hardware integration
+- Hardware
 
 ## Results
 The robot successfully followed predefined tracks with stable motion and minimal deviation.
