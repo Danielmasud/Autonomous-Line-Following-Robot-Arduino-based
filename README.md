@@ -54,4 +54,4 @@ https://github.com/user-attachments/assets/96a946f8-fc03-4560-b729-121cba80b216
 https://github.com/user-attachments/assets/bef828d1-f422-4e71-877c-ca6f114cd4c8
 
 ---
-**Competition:** | **Institution:** Ruppin Academic Center
+**Competition** - **Institution:** Ruppin Academic Center
